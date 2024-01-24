@@ -1,8 +1,6 @@
 ### Wassup guys, i'm Asafe! 🙋‍♂️ 
 This is my GitHub profile, you're welcome. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asafeareas&layout=donut&theme-dark)](https://github.com/asafeareas/github-readme-stats)
-
 ### ✨ Today i'm working with theese languages ✨
 <div style= "display: inline_block">
 <img alt=javascript src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
