@@ -13,8 +13,3 @@ This is my GitHub profile, you're welcome.
 ### Find me here 👀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asafeareas_/)
-
-### My Git Status 📊
-
-![asafeareas GitHub stats](https://github-readme-stats.vercel.app/api?username=asafeareas&show_icons=true&theme=radical)
-
