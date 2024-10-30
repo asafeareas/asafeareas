@@ -20,7 +20,7 @@
 
 ---
 
-<h2>About Me 💬</h2>
+<h2 align="Center">About Me 💬</h2>
 
 <p>
   I'm a tech enthusiast who loves exploring new languages and frameworks. I'm passionate about <strong>soulslike</strong> games and <strong>geek</strong> culture, and I'm constantly learning to improve my development skills. In my free time, I enjoy diving into new challenges and technologies that expand my knowledge!
@@ -28,9 +28,9 @@
 
 ---
 
-<h2>🛠️ Technical Skills</h2>
+<h2 align="Center">🛠️ Technical Skills</h2>
 
-<table>
+<table align="Center">
   <tr>
     <td><strong>Languages</strong></td>
     <td>C#, SQL</td>
