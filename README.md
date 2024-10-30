@@ -13,8 +13,8 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge" alt="Followers">
+  <a href="https://github.com/asafeareas">
+    <img src="https://img.shields.io/github/followers/asafeareas?style=for-the-badge" alt="Followers">
   </a>
 </p>
 
