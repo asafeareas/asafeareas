@@ -1,9 +1,9 @@
 <!-- README.md for a GitHub profile -->
 
-<h1 align="center"> ### Hi There, I'm Asafe! 👋</h1>
+<h1 align="center"> Hi There, I'm Asafe! 👋</h1>
 
 <p align="center">
-  <em>Developer | Technology Enthusiast | Game Fan</em>
+  <em>Developer | Technology Enthusiast </em>
 </p>
 
 <p align="center">
