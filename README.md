@@ -13,6 +13,7 @@ Experience with feature implementation, system validation, and integration flows
 - Clear technical communication with teams and clients
 
 ## Tech
+- Javascript/Typescript
 - Node.js
 - REST APIs
 - Automated Testing (Cypress)
